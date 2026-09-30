@@ -34,7 +34,7 @@ createWeb3Modal({
 })
 
 // 2. Smart Contract Details
-const CONTRACT_ADDRESS = "0xaede622144E59FDFe360D99fF27408CA17D8108A"; // Replace with your contract address
+const CONTRACT_ADDRESS = "0xd3363c312cc2861c2e9c02c50c6550e8e6c8f766"; // Replace with your contract address
 const CONTRACT_ABI = [
   {
     "anonymous": false,
